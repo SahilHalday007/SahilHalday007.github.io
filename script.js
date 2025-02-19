@@ -10,6 +10,7 @@ yesBtn.addEventListener("click", () => {
 
     // Hide the No button
     noBtn.style.display = "none";
+    yesBtn.style.display = "none";
 });
 
 // Function to move the No button to a random position
